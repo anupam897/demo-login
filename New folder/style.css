@@ -1,0 +1,161 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.card1{
+	height: 100vh;
+	border:1px solid ;
+	background-color: #13A1DB;
+}
+.card-body{
+	border-bottom: 1px solid #ccc;
+margin-top: -20px;
+
+}
+.card-text{
+	margin-bottom: -24px;
+}
+.ss{
+	align-items: center;
+    margin-left: 70px;
+    margin-top: 18px;
+    font-size: 120px;
+    color: white;
+
+}
+h5{
+	margin-top: 15px;
+}
+
+.Btn .fa{
+	padding: 2px;
+	margin-right: 10px;
+}
+.Btn{
+	color: white;
+	background-color: #13A1DB;
+	padding: 10px 40px;
+    position: relative;
+    top: 390px;
+    margin-left: 35px;
+font-size: 16px; 
+border-radius: 5px;
+border:1px solid white; 
+}
+
+	.wrap-2{
+		border-top:2px solid #ccc; 
+		padding:30px 0;}
+
+
+
+.PA{
+	color: #707070;
+}
+
+.btn{
+	border-style:none; 
+	border-radius: 4px;
+	width: auto; 
+	height:50px; 
+	}
+
+.btn1{
+	font-size: 18px;
+	font-weight: 500;
+	margin-left: 13px;
+	
+}
+.btn2{
+	font-size: 18px;
+	color: #49B5E1;
+	font-weight: 500;
+}
+.btn3{
+	font-size: 18px;
+	font-weight: 500;
+	
+}
+.btn4{
+	color: #49B5E1;
+	font-size: 18px;
+}
+
+
+.btn-group-justified{
+	width: 20%;
+	padding:0px 0 10px 0;
+	margin-left: 15px;
+    margin-bottom: 20px;
+    
+}
+
+.anu{
+	color:#A3A3A3;
+	padding: 6px  8px;
+}
+
+.form-row{
+	padding-left: 20px;
+	padding: 15px 2px;
+	border-top: 2px;
+	margin-left:
+}
+
+.form-row select {
+	border-style: none;
+    border-bottom: 1px solid #b4b4b4 !important;
+    border-width: 0 0 2px;
+    border-color: #A3A3A3;
+    padding: 15px 2px;
+    box-shadow: none;
+}
+.form-row select:focus {
+
+}
+
+.AK{
+	padding-left: 20px;
+}
+.PK{
+	padding-left: 20px;
+}
+.NK{
+	padding-left: 20px;
+}
+.ankit{
+	margin-right: 0px;
+}
+.bhanu{
+	padding: 5px;
+	padding-left: 20px;
+}
+.btn9{
+	background-color:#666666;
+	color: white;
+	padding:12px 50px;
+	border-style: none;
+	border-radius: 4px;
+	font-size: 16px;
+}
+.btn8{
+	background-color: #13A1DB;
+	color: white;
+	padding:11px 85px;
+	border-style: none;
+	border-radius: 4px;
+}
+.anil{
+	margin-left: 18px;	
+}
+.form-row1{
+	margin-left: 3px;
+	padding: 5px
+}
+.form-row2{
+	margin-left: 5px;
+}
+

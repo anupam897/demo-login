@@ -1,0 +1,198 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.wrap-2{
+	border-width: 50%;
+border-top: 2px solid #ccc; 
+padding:30px;
+}
+
+.fa{
+	font-size: 100px;
+	font-weight: 20px;
+	margin-left: 15px;
+	color: white;
+	background-color: #13A1DB;
+	padding: 12px;
+	border-radius: 15px;
+}
+.ash{
+	margin-top: 10px;
+
+
+	
+}
+img{
+	width: 20%;
+	ma
+}
+
+
+.mishra{
+	margin-top:  5px;
+	padding: 20px;
+	margin-right: 100px;
+
+}
+.Loan{
+	font-size: 16px;
+	font-weight: bold;
+
+}
+.CLASS{
+	font-size: 16px;
+	color: #13A1DB;
+	font-weight:bold;
+}
+.SPAN{
+	margin-right:22px;
+	font-size: 16px;
+	color: #13A1DB;
+	font-weight:bold;
+}
+.vl {
+  border-left:2px solid gray;
+  height: 10px;
+  /*position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 10;*/
+}
+
+.btn{
+	border-style:none; 
+	border-radius: 4px;
+	width: 320%; 
+	height:100px; 
+	}
+
+.btn1{
+	font-size: 18px;
+	font-weight: 500;
+	margin-left: 13px;
+	
+}
+.btn2{
+	font-size: 18px;
+	color: #49B5E1;
+	font-weight: 500;
+}
+.btn3{
+	font-size: 18px;
+	font-weight: 500;
+	
+}
+.btn4{
+	color: #49B5E1;
+	font-size: 18px;
+}
+
+
+/*.btn-group-justified{
+	width: 20%;
+    padding: 0px 400px 16px 400px;
+    margin-left: -212px;
+    margin-bottom: 22px;
+   
+
+    
+}*/
+.DEV{
+	width: 50%;
+	padding: 0px 10px 10px 20px;
+
+}
+.dev{
+	width: 50%;
+	padding: 0px 10px 10px 30px;
+}
+
+.anu{
+	color:#A3A3A3;
+	padding: 6px  8px;
+}
+
+.form-row{
+	padding-left: 20px;
+	padding: 15px 2px;
+	border-top: 2px;
+	margin-left:
+}
+
+.form-row select {
+	border-style: none;
+    border-bottom: 1px solid #b4b4b4 !important;
+    border-width: 0 0 2px;
+    border-color: #A3A3A3;
+    padding: 15px 2px;
+    box-shadow: none;
+}
+.H4{
+	color: black;
+}
+.PA{
+	color: #707070;
+}
+
+.AK{
+	padding-left: 205px;
+}
+.PK{
+	padding-left: 205px;
+}
+.NK{
+	padding-left: 205px;
+}
+.ankit{
+	margin-right: 0px;
+}
+.bhanu{
+	padding: 5px;
+	padding-left: 205px;
+}
+.btn10{
+	background-color:#F9F9F9;
+	padding:12px 50px;
+	border-style: none;
+	border-radius: 2px;
+	font-size: 16px;
+	position: relative;
+    left: 190px;
+}
+.btn11{
+	background-color:#F9F9F9;
+	
+	
+	font-size: 16px;
+	position: relative;
+    right: 172px;
+    text-align: right;
+}
+.btn9{
+	background-color:#666666;
+	color: white;
+	padding:12px 50px;
+	border-style: none;
+	border-radius: 4px;
+	font-size: 16px;
+}
+.btn8{
+	background-color: #13A1DB;
+	color: white;
+	padding:11px 85px;
+	border-style: none;
+	border-radius: 4px;
+}
+.anil{
+	margin-left: 205px;	
+}
+.form-row1{
+	margin-left: 3px;
+	padding: 5px
+}
+.form-row2{
+	margin-left: 5px;
+}
+
